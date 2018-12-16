@@ -1,0 +1,2 @@
+1. firebase official: https://firebase.google.com/
+2. https://howtofirebase.com/what-is-firebase-fcb8614ba442
